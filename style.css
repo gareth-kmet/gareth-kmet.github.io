@@ -1,0 +1,42 @@
+body {
+    font-family: 'Lucida Console';
+}
+
+.header {
+    padding: 80px;
+    background: linear-gradient(.25turn, #bae8e8, #272643 25%, #bae8e8);
+    color: white;
+}
+
+.leftAlign {
+    position: relative;
+    left: 25%;
+    text-align: left;
+}
+
+.left25 h1 {
+    font-size: 40px;
+}
+
+.projects {
+    width: 60%;
+    left: 20%;
+    position: relative;
+    border: 3px groove #272643;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.project {
+    border: 1px solid #272643;
+    display: inline-block;
+    text-align: center;
+    flex-grow: 1;
+}
+
+
