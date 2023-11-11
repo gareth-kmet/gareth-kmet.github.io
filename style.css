@@ -39,4 +39,12 @@ body {
     flex-grow: 1;
 }
 
+.project h3 {
+    text-shadow: 2px 2px #000000;
+}
+
+.displayImage{
+    height: 200px;
+}
+
 
