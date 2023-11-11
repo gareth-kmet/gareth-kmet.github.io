@@ -4,8 +4,8 @@ body {
 
 .header {
     padding: 80px;
-    background: linear-gradient(.25turn, #bae8e8, #272643 25%, #bae8e8);
     color: white;
+    background-image: url('./res/bigPerlin.png');
 }
 
 .leftAlign {
