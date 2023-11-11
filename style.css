@@ -37,6 +37,7 @@ body {
     display: inline-block;
     text-align: center;
     flex-grow: 1;
+    height: 300px;
 }
 
 .project h3 {
